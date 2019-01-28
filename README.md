@@ -1,4 +1,4 @@
-# Syncronized_Historgram
+# Syncronized_Histogram
 Here we create histogram using multiprocessing and multhreading
 N: input, B: batch
 N = 1 B = 1 0.00449 ms
